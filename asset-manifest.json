@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.36971ad4.chunk.css",
+    "main.js": "/static/js/main.26da5fd6.chunk.js",
+    "main.js.map": "/static/js/main.26da5fd6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3ed7c16c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3ed7c16c.js.map",
+    "static/js/2.1c820624.chunk.js": "/static/js/2.1c820624.chunk.js",
+    "static/js/2.1c820624.chunk.js.map": "/static/js/2.1c820624.chunk.js.map",
+    "static/js/3.4cbacd47.chunk.js": "/static/js/3.4cbacd47.chunk.js",
+    "static/js/3.4cbacd47.chunk.js.map": "/static/js/3.4cbacd47.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.36971ad4.chunk.css.map": "/static/css/main.36971ad4.chunk.css.map",
+    "static/js/2.1c820624.chunk.js.LICENSE.txt": "/static/js/2.1c820624.chunk.js.LICENSE.txt",
+    "static/media/styles.scss": "/static/media/Livvic-MediumItalic.321e77a7.ttf",
+    "static/media/aiysha.70a29454.png": "/static/media/aiysha.70a29454.png",
+    "static/media/arthur.b84e0413.png": "/static/media/arthur.b84e0413.png",
+    "static/media/hero.943a4c7e.svg": "/static/media/hero.943a4c7e.svg",
+    "static/media/katy.57d096ec.svg": "/static/media/katy.57d096ec.svg",
+    "static/media/perfect-circle.62e52f91.svg": "/static/media/perfect-circle.62e52f91.svg",
+    "static/media/perfect-square.0e194ed4.svg": "/static/media/perfect-square.0e194ed4.svg",
+    "static/media/statement-bc.1db615cc.svg": "/static/media/statement-bc.1db615cc.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ed7c16c.js",
+    "static/js/2.1c820624.chunk.js",
+    "static/css/main.36971ad4.chunk.css",
+    "static/js/main.26da5fd6.chunk.js"
+  ]
+}
